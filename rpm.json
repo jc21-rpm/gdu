@@ -1,0 +1,7 @@
+{
+  "publish": {
+    "PACKAGE": "gdu",
+    "GH_USER": "jc21-rpm",
+    "VERSION": "5.20.0"
+  }
+}
