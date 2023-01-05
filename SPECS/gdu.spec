@@ -32,7 +32,7 @@ install -Dm0755 dist/%{name} %{buildroot}%{_bindir}/%{name}
 %doc LICENSE.md
 
 %changelog
-* Thu Jan 5 2022 Jamie Curnow <jc@jc21.com> 5.21.0-1
+* Thu Jan 5 2023 Jamie Curnow <jc@jc21.com> 5.21.0-1
 - v5.21.0
 
 * Thu Dec 8 2022 Jamie Curnow <jc@jc21.com> 5.20.0-1
