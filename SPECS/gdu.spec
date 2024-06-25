@@ -4,7 +4,7 @@
 
 Name:           gdu
 Version:        5.29.0
-Release:        1
+Release:        1%{?dist}
 Summary:        Fast disk usage analyzer with console interface written in Go
 Group:          Applications/System
 License:        MIT
