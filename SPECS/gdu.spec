@@ -3,7 +3,7 @@
 %global gh_user dundee
 
 Name:           gdu
-Version:        5.31.0
+Version:        5.32.0
 Release:        1%{?dist}
 Summary:        Fast disk usage analyzer with console interface written in Go
 Group:          Applications/System
@@ -32,6 +32,9 @@ install -Dm0755 dist/%{name} %{buildroot}%{_bindir}/%{name}
 %doc LICENSE.md
 
 %changelog
+* Mon Nov 24 2025 Jamie Curnow <jc@jc21.com> 5.32.0-1
+- v5.32.0
+
 * Thu Jun 12 2025 Jamie Curnow <jc@jc21.com> 5.31.0-1
 - v5.31.0
 
