@@ -3,6 +3,6 @@
   "publish": {
     "PACKAGE": "gdu",
     "GH_USER": "jc21-rpm",
-    "VERSION": "5.37.0"
+    "VERSION": "5.38.0"
   }
 }
